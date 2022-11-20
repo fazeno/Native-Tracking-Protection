@@ -24,6 +24,8 @@ metrics4.data.hicloud.com
 metrics5.data.hicloud.com
 logservice.hicloud.com
 logservice1.hicloud.com
+metrics-dra.dt.hicloud.com
+logbak.hicloud.com
 
 #Roku
 logs.roku.com
@@ -33,6 +35,14 @@ nmetrics.samsung.com
 insights.samsung.com
 analytics.samsungknox.com
 bigdata.ssp.samsung.com
+ad.samsungadhub.com
+samsungadhub.com
+samsungads.com
+smetrics.samsung.com
+samsung-com.112.2o7.net
+business.samsungusa.com
+analytics-api.samsunghealthcn.com
+config.samsungads.com
 
 #Sonos
 msmetrics.ws.sonos.com
@@ -76,5 +86,15 @@ tracking.india.miui.com
 tracking.rus.miui.com
 api.ad.xiaomi.com
 app.chat.xiaomi.net
+sdkconfig.ad.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+globalapi.ad.xiaomi.com
+www.cdn.ad.xiaomi.com
 
+
+#OnePlus
+analytics.oneplus.cn
+click.oneplus.cn
+click.oneplus.com
+open.oneplus.net
 
