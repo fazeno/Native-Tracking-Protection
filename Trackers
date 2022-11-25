@@ -33,6 +33,15 @@ ads.reddit.com
 api-hotjar.com
 hotjar-analytics.com
 ads.google.com
+nsna6odmb01c4io48kgq6keai.litix.io
+api.cxense.com
+static.hotjar.com
+launches.appsflyer.com
+mcsj5flcr6lgtq9hk1mgvyjyd340.device.marketingcloudapis.com
+tags.tiqcdn.com
+||app.adjust.com
+||datadoghq-browser-agent.com
+crashlyticsreports-pa.googleapis.com
 browser.sentry-cdn.com
 trk.klclick1.com
 ct.klclick.com
@@ -46,4 +55,4 @@ audit-tcfv2.cmp.quantcast.com
 media.plista.com
 abcdefghijklmnopqrstuvwxyz012345.plex.direct
 firebaselogging-pa.googleapis.com
-10-10-0-171.abcdefghijklmnopqrstuvwxyz012345.plex.direct
+||abcdefghijklmnopqrstuvwxyz012345.plex.direct
