@@ -1,9 +1,0 @@
-{
-	"name": "dns-bypass-methods",
-	"website": "https://github.com/",
-	"description": "dns-bypass-methods.",
-	"source": {
-		"url": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/encrypted-dns, https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/browsers ",
-		"format": "domains"
-	}
-}
