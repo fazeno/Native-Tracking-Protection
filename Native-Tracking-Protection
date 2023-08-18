@@ -2,11 +2,6 @@
 #Made by R. Nieuwland#
 ######################
 
-#Alexa
-||data.alexa.com^
-||device-metrics-us.amazon.com^
-||device-metrics-us-2.amazon.com^
-
 #Huawei
 ||metrics.data.hicloud.com^
 ||metrics1.data.hicloud.com^
