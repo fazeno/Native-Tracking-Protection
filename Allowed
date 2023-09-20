@@ -10,5 +10,6 @@
 @@||metrics.icloud.com^
 @@||icloud.com^
 @@||apple.com^
-@@||gateway.fe.apple-dns.net^
 @@||gateway.icloud.com^
+@@||apple.com.akadns.net^
+@@||apple-dns.net^
